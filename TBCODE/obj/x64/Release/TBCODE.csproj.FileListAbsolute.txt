@@ -1,0 +1,10 @@
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\bin\x64\Release\TBCODE.exe.config
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\bin\x64\Release\TBCODE.exe
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\bin\x64\Release\TBCODE.pdb
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.csprojAssemblyReference.cache
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.Form1.resources
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.Properties.Resources.resources
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.csproj.GenerateResource.cache
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.exe
+C:\Users\Professional\Documents\Visual Studio 2019\Projects\TBCODE\TBCODE\obj\x64\Release\TBCODE.pdb
