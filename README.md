@@ -1,2 +1,2 @@
 # tbcode
-Algoritmo de criptografia simétrica com chave escondida
+Algoritmo de criptografia simétrica com chave escondida.
