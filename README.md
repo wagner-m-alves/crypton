@@ -75,6 +75,31 @@ J M I B I O  --> Chave Encriptada Invertida
 
 Saída: SJEMZIÉBIINO
 ```
+## Exemplo da execução dos passos para descriptografar
+
+Passo 2
+```
+S J E M Z I É B I I N O  --> Entrada
+S E Z É I N              --> Mensagem
+J M I B I O              --> Chave Encriptada Invertida
+O I B I M J              --> Chave Encriptada
+```
+
+Passo 3
+```
+O I B I M J              --> Chave Encriptada
+S E Z É I N              --> Mensagem
+Õ E T T E Õ              --> Chave
+```
+
+Passo 4
+```
+S E Z É I N              --> Mensagem
+Õ E T T E Õ              --> Chave
+W A G N E R              --> Saída
+
+Saída: WAGNER
+```
 
 ## Observações
 
